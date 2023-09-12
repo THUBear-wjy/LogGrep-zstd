@@ -1,0 +1,16 @@
+E7 20861 <V2> <V7> <V3> <V4>:<V5>:<V0> <V8> [error] [client <V6> File does not exist: <V1>
+E5 7044 <V0> <V5> <V1> <V2>:<V3>:<V4> <V9> [notice] <V6> <V7> <V8>
+E3 6744 <V0> <V6> <V1> <V2>:<V3>:<V4> <V7> [error] [client <V5> Directory index forbidden by rule: /var/www/html/
+E2 6361 <V0> <V13> <V1> <V2>:<V3>:<V4> <V14> <V5> <V6> <V7> <V8> <V9> in <V10> <V11> <V12>
+E6 5365 <V0> <V13> <V1> <V2>:<V3>:<V4> <V14> <V6> <V7> <V8> <V9> <V10> <V5> <V11> <V12>
+E14 4478 script not found or unable to stat
+E4 3301 <V0> <V1> <V2> <V6>:<V3>:<V4> <V8> [error] [client <V5> script not found or unable to stat: <V7>
+E11 1259 <V0> <V1> <V2> <V3>:<V4>:<V5> <V7> [error] mod_jk child init 1 <V6>
+E1 46 <V0> <V5> <V1> <V2>:<V3>:<V4> 2005] [notice] LDAP: SSL support unavailable
+E9 32 <V0> <V1> <V2> 04:<V3>:<V4> 2005] [notice] mod_python: Creating 32 session mutexes based on 150 max processes and 0 max threads.
+E10 21 <V0> <V1> <V2> 04:04:<V3> 2005] [error] env.createBean2(): Factory error creating <V4>:<V5> ( <V6>, <V7>
+E12 16 [Thu Jul 21 03:37:33 2005] [error] [client 218.144.240.75] attempt to invoke directory as script: /var/www/cgi-bin/
+E8 1 [Sun Jun 12 04:04:29 2005] [error] config.update(): Can't create worker.jni:onShutdown
+E13 1 [Mon Sep 19 05:58:19 2005] [notice] LDAP: Built with OpenLDAP LDAP SDK
+E15 1 [Tue Dec 06 12:20:34 2005] [warn] child process 6448 still did not exit, sending a SIGTERM
+E16 1 [Sun Jan 15 04:11:23 2006] [error] config.update(): Can't create vm:

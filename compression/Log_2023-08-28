@@ -1,0 +1,42 @@
+2023-08-28 07:31:54,329 - thread: LR__0, filename: Apache, fileNo: 0 ERROR!!
+2023-08-28 07:31:54,330 - Apache finished, total time cost: 0.006000995635986328 , thread accum time: 0.0053250789642333984
+2023-08-28 07:31:54,335 - thread: LR__0, filename: Healthapp, fileNo: 0 ERROR!!
+2023-08-28 07:31:54,335 - Healthapp finished, total time cost: 0.005267620086669922 , thread accum time: 0.004767179489135742
+2023-08-28 07:31:54,340 - thread: LR__0, filename: Hpc, fileNo: 0 ERROR!!
+2023-08-28 07:31:54,340 - Hpc finished, total time cost: 0.0050754547119140625 , thread accum time: 0.004584550857543945
+2023-08-28 07:31:54,345 - thread: LR__0, filename: Linux, fileNo: 0 ERROR!!
+2023-08-28 07:31:54,345 - Linux finished, total time cost: 0.0048100948333740234 , thread accum time: 0.0043926239013671875
+2023-08-28 07:31:54,350 - thread: LR__0, filename: Mac, fileNo: 0 ERROR!!
+2023-08-28 07:31:54,351 - Mac finished, total time cost: 0.0051844120025634766 , thread accum time: 0.004634857177734375
+2023-08-28 07:31:54,356 - thread: LR__0, filename: Proxifier, fileNo: 0 ERROR!!
+2023-08-28 07:31:54,356 - Proxifier finished, total time cost: 0.005038738250732422 , thread accum time: 0.004467964172363281
+2023-08-28 07:31:54,362 - thread: LR__0, filename: Spark, fileNo: 0 ERROR!!
+2023-08-28 07:31:54,363 - thread: LR__1, filename: Spark, fileNo: 1 ERROR!!
+2023-08-28 07:31:54,363 - thread: LR__2, filename: Spark, fileNo: 2 ERROR!!
+2023-08-28 07:31:54,364 - Spark finished, total time cost: 0.007975101470947266 , thread accum time: 0.01789999008178711
+2023-08-28 07:31:54,370 - thread: LR__0, filename: Ssh, fileNo: 0 ERROR!!
+2023-08-28 07:31:54,370 - thread: LR__1, filename: Ssh, fileNo: 1 ERROR!!
+2023-08-28 07:31:54,371 - Ssh finished, total time cost: 0.0064623355865478516 , thread accum time: 0.01032567024230957
+2023-08-28 07:31:54,376 - thread: LR__0, filename: Zookeeper, fileNo: 0 ERROR!!
+2023-08-28 07:31:54,377 - Zookeeper finished, total time cost: 0.005128145217895508 , thread accum time: 0.004473447799682617
+2023-08-28 07:31:54,377 - Main finished, total time cost: 0.0530240535736084 , error num: 12
+2023-08-28 07:32:09,938 - Apache finished, total time cost: 0.13807058334350586 , thread accum time: 0.13739228248596191
+2023-08-28 07:32:10,702 - Healthapp finished, total time cost: 0.763563871383667 , thread accum time: 0.7628633975982666
+2023-08-28 07:32:11,579 - Hpc finished, total time cost: 0.8765127658843994 , thread accum time: 0.8757948875427246
+2023-08-28 07:32:11,682 - Linux finished, total time cost: 0.10221409797668457 , thread accum time: 0.10157322883605957
+2023-08-28 07:32:12,139 - Mac finished, total time cost: 0.4573190212249756 , thread accum time: 0.45656490325927734
+2023-08-28 07:32:12,234 - Proxifier finished, total time cost: 0.09457802772521973 , thread accum time: 0.09394383430480957
+2023-08-28 07:32:14,230 - Spark finished, total time cost: 1.9953274726867676 , thread accum time: 5.631941318511963
+2023-08-28 07:32:15,944 - Ssh finished, total time cost: 1.7133545875549316 , thread accum time: 1.877694845199585
+2023-08-28 07:32:16,150 - Zookeeper finished, total time cost: 0.20579886436462402 , thread accum time: 0.20510029792785645
+2023-08-28 07:32:16,150 - Main finished, total time cost: 6.350445508956909 , error num: 0
+2023-08-28 07:34:09,038 - Apache finished, total time cost: 0.13342738151550293 , thread accum time: 0.1326735019683838
+2023-08-28 07:34:09,783 - Healthapp finished, total time cost: 0.7448935508728027 , thread accum time: 0.7440712451934814
+2023-08-28 07:34:10,625 - Hpc finished, total time cost: 0.8418047428131104 , thread accum time: 0.8409509658813477
+2023-08-28 07:34:10,711 - Linux finished, total time cost: 0.08528375625610352 , thread accum time: 0.08451342582702637
+2023-08-28 07:34:11,162 - Mac finished, total time cost: 0.45037102699279785 , thread accum time: 0.449542760848999
+2023-08-28 07:34:11,254 - Proxifier finished, total time cost: 0.09247016906738281 , thread accum time: 0.09162664413452148
+2023-08-28 07:34:13,169 - Spark finished, total time cost: 1.9141616821289062 , thread accum time: 5.454010248184204
+2023-08-28 07:34:14,829 - Ssh finished, total time cost: 1.6601099967956543 , thread accum time: 1.8227035999298096
+2023-08-28 07:34:15,027 - Zookeeper finished, total time cost: 0.19751191139221191 , thread accum time: 0.19667887687683105
+2023-08-28 07:34:15,027 - Main finished, total time cost: 6.123524904251099 , error num: 0
